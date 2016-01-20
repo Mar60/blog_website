@@ -1,2 +1,2 @@
 # road-to-todai
-Petit jeu de calcul mental avec Phaser.js
+Quick arithmetic game using Phaser.js
