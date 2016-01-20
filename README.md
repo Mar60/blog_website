@@ -1,2 +1,2 @@
 # road-to-todai
-Quick arithmetic game using Phaser.js
+Quick arithmetic game using Phaser.js.
