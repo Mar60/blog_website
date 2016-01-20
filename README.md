@@ -1,2 +1,2 @@
 # road-to-todai
-Création d'un blog pour transmettre de la connaissance
+Petit jeu de calcul mental avec Phaser.js
